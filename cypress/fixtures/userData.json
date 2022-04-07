@@ -1,0 +1,20 @@
+[
+    {
+    "searchQuery": "batman",
+    "additionalInfo": "1",
+    "OptionalQueryType": "movies",
+    "OptionalMaxNumberToRetrieve": "2"
+},
+{
+    "searchQuery": "south park",
+    "additionalInfo": "0",
+    "OptionalQueryType": "games",
+    "OptionalMaxNumberToRetrieve": "10"
+},
+{
+    "searchQuery": "Test",
+    "additionalInfo": "1",
+    "OptionalQueryType": "books",
+    "OptionalMaxNumberToRetrieve": "8"
+}
+]
